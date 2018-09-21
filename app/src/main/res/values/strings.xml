@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook-App-challenge</string>
+    <string name="login_status">Login status</string>
+    <string name="facebook_app_id">2361746807229636</string>
+    <string name="fb_login_protocol_scheme">fb2361746807229636
+</string>
+    <string name="photo_count_holder">%1$s photos</string>
+</resources>
