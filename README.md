@@ -18,7 +18,7 @@ Dagger - Dagger is a fully static, compile-time dependency injection framework <
 How to run the app
 In order to test this app, i used my facebook developer account, therefore, to make it work for you : 
  
- - Clone the repository. git clone  <br> 
+ - Clone the repository <br> 
 
 - install android studio and open the project with it. <br>
 
